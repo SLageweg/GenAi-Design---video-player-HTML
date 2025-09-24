@@ -1,5 +1,4 @@
 # GenAi-Design---video-player-HTML
-@@ -0,0 +1,1111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
